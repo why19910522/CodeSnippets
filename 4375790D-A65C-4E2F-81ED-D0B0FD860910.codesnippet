@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>why_dict_to_model_implementation</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>+(instancetype)&lt;#model#&gt;WithDict:(NSDictionary *)dict {
+    &lt;#modelType#&gt; *&lt;#model#&gt; = [[self alloc] init];
+    [&lt;#model#&gt; setValuesForKeysWithDictionary:dict];
+    return &lt;#model#&gt;;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>4375790D-A65C-4E2F-81ED-D0B0FD860910</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>实现字典转模型</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
