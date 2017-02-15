@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>why_weakSelf</string>
+	<string>todo_swift</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[weak self]</string>
+	<string>// TODO: </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F635D6F5-1C75-4E53-AC69-9D2B78ACCFF9</string>
+	<string>28683F60-F0E5-45C3-9B91-82DB663326C6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>swift_weakSelf</string>
+	<string>todo_swift</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

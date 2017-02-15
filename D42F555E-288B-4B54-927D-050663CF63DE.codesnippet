@@ -3,19 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>why_weakSelf</string>
+	<string>why_snp_make</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[weak self]</string>
+	<string>snp.makeConstraints { (make) in
+            
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F635D6F5-1C75-4E53-AC69-9D2B78ACCFF9</string>
+	<string>D42F555E-288B-4B54-927D-050663CF63DE</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>swift_weakSelf</string>
+	<string>quick_snp_make</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
